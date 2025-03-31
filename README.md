@@ -32,5 +32,4 @@ cd imersaodev2025/aula0X/index.html
 - Adicionar mais projetos conforme as aulas avançam
 
 
-✨ **Dica:** Use a extensão Live Server no VS Code para testar com auto-reload!
 
