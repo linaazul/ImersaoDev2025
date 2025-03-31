@@ -19,7 +19,7 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 Siga estes passos para testar o conversor:
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/imersao-dev.git
+git clone https://github.com/linaazul/imersao-dev.git
 
 # 2. Acesse a pasta do projeto
 cd imersaodev2025/aula0X/index.html
