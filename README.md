@@ -15,6 +15,11 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 - **Funcionalidade**: Converte valores da moeda Won Coreano para Real Brasileiro.
 - **Destaque**: Cálculo em tempo real com taxa fixa.
 
+### 2️⃣ Jogo de Pedra, papel e tesoura (Aula 02)
+![Site do Pedra, papel ou tesoura](https://media.discordapp.net/attachments/873820856281858069/1356694409630056670/image.png?ex=67ed7fa1&is=67ec2e21&hm=b9a723aefbf4f1a7e0a8eba7fa3bb1990218c82fb0c1265ed29691efac2bfaf2&=&format=webp&quality=lossless&width=1333&height=676)
+- **Funcionalidade**: Jogue uma partida de jokenpô contra um robô, para ganhar é preciso arriscar!
+- **Destaque**: Lógica simples, não permite erros de input.
+
 ## 🖥️ Como Executar Localmente
 Siga estes passos para testar o conversor:
 ```bash
