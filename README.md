@@ -20,6 +20,11 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 - **Funcionalidade**: Jogue uma partida de jokenpô contra um robô, para ganhar é preciso arriscar!
 - **Destaque**: Lógica simples, não permite erros de input.
 
+### 3️⃣ Jogo de salto no vidro do squid game (Aula 03)
+![Site do jogo salto no vidro](https://media.discordapp.net/attachments/873820856281858069/1357072367507083406/image.png?ex=67eedfa1&is=67ed8e21&hm=e8c5f6143def950e6f28347195af9f761f55504a27357214bafa7b4c3ab32cbe&=&format=webp&quality=lossless&width=1318&height=676)
+- **Funcionalidade**: Jogue uma partida de salto no vidro! Teste sua sorte pulando em 3 vidros e veja se é capaz de chegar no fim.
+- **Destaque**: Lógica simples, não permite erros de input, tem loop while.
+
 ## 🖥️ Como Executar Localmente
 Siga estes passos para testar o conversor:
 ```bash
