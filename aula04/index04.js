@@ -1,7 +1,7 @@
 function jogar(){
     // Arrays com os 3 vilões e personagens
-    const personagens =  ["", "", ""]
-    const viloes = ["", "", ""]
+    const personagens =  []
+    const viloes = []
 
     //Constantes para manter o código organizado e mais fácil de alterar
     const FORCA_MAXIMA = 10
