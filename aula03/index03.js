@@ -1,7 +1,7 @@
 function jogar(){
-   let nivelAtual = 1
-   const nivelMaximo = 3
-    while(nivelAtual <= nivelMaximo){
+    //flag
+    let ganhou = true 
+    for(let nivelAtual = 1; nivelAtual <=3; nivelAtual++){
         console.log("Nivel: " + nivelAtual)
         
         const escolhaJogador = parseInt(
@@ -15,14 +15,14 @@ function jogar(){
         }else{
             if(escolhaJogador === pisoQuebrado){
                 alert("🧨O vidro quebrou.\nVocê perdeu.")
+                ganhou = false
                 return
             } else{
                 alert("Você passou!\nO vidro estava na casa " + pisoQuebrado)
             }
-            nivelAtual++
         }
     }
-    if (nivelAtual === 4){
+    if (ganhou == true){
         alert("🎊Parabéns, você conseguiu!🎊")
     }
 }
