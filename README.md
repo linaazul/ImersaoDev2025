@@ -25,6 +25,11 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 - **Funcionalidade**: Jogue uma partida de salto no vidro! Teste sua sorte pulando em 3 vidros e veja se é capaz de chegar no fim.
 - **Destaque**: Lógica simples, não permite erros de input, tem loop while.
 
+### 4️⃣ Cabo de guerra contra os chefões do Hollow Knight (Aula 04)
+![Site do cabo de guerra](imgsREADME/image04.png)
+- **Funcionalidade**: Jogue uma partida de cabo de guerra contra os bosses mais desafiadores do Hollow Knight. Será que você vai conseguir derrotar a radiância com seus 2 aliados?
+- **Destaque**: Lógica simples com for, condições e arrays. Adiciona e remove itens usando funções de Arrays.
+
 ## 🖥️ Como Executar Localmente
 Siga estes passos para testar o conversor:
 ```bash
