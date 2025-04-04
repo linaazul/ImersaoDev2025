@@ -31,7 +31,7 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 - **Destaque**: Lógica simples com for, condições e arrays. Adiciona e remove itens usando funções de Arrays.
 
 ### 5️⃣ Quiz de Programação para iniciantes (Aula 05)
-![Site do cabo de guerra](imgsREADME/image05.png)
+![Site do quiz](imgsREADME/image05.png)
 - **Funcionalidade**: Um quiz de programação de nível iniciante. Descubra novos conceitos ou teste seu conhecimento básico.
 - **Destaque**: Estrutura clara: perguntas e respostas organizadas em array de objetos, lógica principal: uso de for para percorrer perguntas e if para verificar respostas, interatividade: botões clicaveis.
 
