@@ -30,6 +30,11 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 - **Funcionalidade**: Jogue uma partida de cabo de guerra contra os bosses mais desafiadores do Hollow Knight. Será que você vai conseguir derrotar a radiância com seus 2 aliados?
 - **Destaque**: Lógica simples com for, condições e arrays. Adiciona e remove itens usando funções de Arrays.
 
+### 5️⃣ Quiz de Programação para iniciantes (Aula 05)
+![Site do cabo de guerra](imgsREADME/image05.png)
+- **Funcionalidade**: Um quiz de programação de nível iniciante. Descubra novos conceitos ou teste seu conhecimento básico.
+- **Destaque**: Estrutura clara: perguntas e respostas organizadas em array de objetos, lógica principal: uso de for para percorrer perguntas e if para verificar respostas, interatividade: botões clicaveis.
+
 ## 🖥️ Como Executar Localmente
 Siga estes passos para testar o conversor:
 ```bash
