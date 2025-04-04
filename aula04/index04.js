@@ -14,7 +14,10 @@ function jogar(){
     let forcaViloes = 0
 
     // Array com os vilões disponiveis.
-    const VILOES_POSSIVEIS = ["Broken Vessel", "God Tamer", "Grimm", "Radiance", "Hollow Knight", "Sly", "Nosk", "Soul Master", "White Defender", "Zote", "Hornet", "False Knight"]
+    const VILOES_POSSIVEIS = [
+        "Broken Vessel", "God Tamer", "Grimm", "Radiance", "Hollow Knight",
+        "Sly", "Nosk", "Soul Master", "White Defender", "Zote", "Hornet",
+        "False Knight"]
 
     // Array contendo a copia de VILOES_POSSIVEIS
     const viloesDisponiveis = [...VILOES_POSSIVEIS]
@@ -26,8 +29,11 @@ function jogar(){
     }
 
     // Cadastro dos personagens do jogador
-    for (let index = 0; index < NUMERO_PERSONAGENS; index++) {
-        const nome = prompt(`Digite o nome do personagem ${index + 1}:`)
+    for (let i = 0; i < NUMERO_PERSONAGENS; i++) {
+        let nome;
+        while (!(nome = prompt(`Nome do personagem ${i+1}:`))?.trim()) {
+            alert("Nome não pode ser vazio!");
+        }
         personagens.push(nome);
         forcaPersonagem += calcularForca();
     }
