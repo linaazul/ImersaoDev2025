@@ -35,6 +35,19 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 - **Funcionalidade**: Um quiz de programação de nível iniciante. Descubra novos conceitos ou teste seu conhecimento básico.
 - **Destaque**: Estrutura clara: perguntas e respostas organizadas em array de objetos, lógica principal: uso de for para percorrer perguntas e if para verificar respostas, interatividade: botões clicaveis.
 
+## 👩‍💻 Execute você mesmo!
+
+| Aula   | Link de Acesso                     |
+|--------|------------------------------------|
+| **01** | [🔗 Executar](https://conversor-de-moedas-ten-smoky.vercel.app/)         |
+| **02** | [🔗 Executar](https://pedra-papel-tesoura-blond-one.vercel.app/)         |
+| **03** | [🔗 Executar](https://pule-no-vidro.vercel.app/)         |
+| **04** | [🔗 Executar](https://imersao-dev2025-fhwh.vercel.app/)         |
+| **05** | [🔗 Executar](https://imersao-dev2025.vercel.app/)         |
+
+
+✨ **Dica:** Clique nos links acima para testar cada projeto online!
+
 ## 🖥️ Como Executar Localmente
 Siga estes passos para testar o conversor:
 ```bash
@@ -49,7 +62,7 @@ cd imersaodev2025/aula0X/index.html
 ```
 
 ## 📌 Próximos Passos
-- Adicionar mais projetos conforme as aulas avançam
+- Aprimorar os códigos conforme erros são notados
 
 
 
