@@ -39,12 +39,11 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 
 | Aula   | Link de Acesso                     |
 |--------|------------------------------------|
-| **01** | [🔗 Executar](https://conversor-de-moedas-ten-smoky.vercel.app/)         |
-| **02** | [🔗 Executar](https://pedra-papel-tesoura-blond-one.vercel.app/)         |
-| **03** | [🔗 Executar](https://pule-no-vidro.vercel.app/)         |
-| **04** | [🔗 Executar](https://imersao-dev2025-fhwh.vercel.app/)         |
-| **05** | [🔗 Executar](https://imersao-dev2025.vercel.app/)         |
-
+| **01** | <a href="https://conversor-de-moedas-ten-smoky.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
+| **02** | <a href="https://pedra-papel-tesoura-blond-one.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
+| **03** | <a href="https://pule-no-vidro.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
+| **04** | <a href="https://imersao-dev2025-fhwh.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
+| **05** | <a href="https://imersao-dev2025.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
 
 ✨ **Dica:** Clique nos links acima para testar cada projeto online!
 
