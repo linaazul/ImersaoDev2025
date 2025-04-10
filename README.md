@@ -39,11 +39,11 @@ Repositório com os projetos desenvolvidos durante a **Imersão Dev 9ª Edição
 
 | Aula   | Link de Acesso                     |
 |--------|------------------------------------|
-| **01** | <a href="https://conversor-de-moedas-ten-smoky.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
-| **02** | <a href="https://pedra-papel-tesoura-blond-one.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
-| **03** | <a href="https://pule-no-vidro.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
-| **04** | <a href="https://imersao-dev2025-fhwh.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
-| **05** | <a href="https://imersao-dev2025.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Executar</a> |
+| **01** | <a href="https://conversor-de-moedas-ten-smoky.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Aula 01</a> |
+| **02** | <a href="https://pedra-papel-tesoura-blond-one.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Aula 02</a> |
+| **03** | <a href="https://pule-no-vidro.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Aula 03</a> |
+| **04** | <a href="https://imersao-dev2025-fhwh.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Aula 04</a> |
+| **05** | <a href="https://imersao-dev2025.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Aula 05</a> |
 
 ✨ **Dica:** Clique nos links acima para testar cada projeto online!
 
